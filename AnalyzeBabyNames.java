@@ -44,8 +44,8 @@ import java.io.File;
  * @param name is a String representing the name
  * @param gender is a String representing the gender
  * 
- * @author Aditya Singh
- * @version July 2019
+ * @author Soumya Ranjan Rout
+ * @version November 2021
  */
 public class AnalyzeBabyNames {
     public int getTotalBirthsRankedHigher(int year, String name, String gender) {
